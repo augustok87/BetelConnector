@@ -1,4 +1,5 @@
 # BetelConnector
+MERN STACK
 
 This is a small network for Betel Church youth group, at Buenos Aires Argentina
 It shows members contacts info, and a post section where they can share ideas.
