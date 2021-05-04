@@ -1,5 +1,9 @@
 # BetelConnector
 
+This is a small network for Betel Church youth group, at Buenos Aires Argentina
+It shows members contacts info, and a post section where they can share ideas.
+
+
 The repo as it is is best suited to deploy to Heroku.
 To do this please create in your personal heroku account and follow the steps for deployment.
 https://dashboard.heroku.com/apps
